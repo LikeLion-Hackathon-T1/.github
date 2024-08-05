@@ -264,8 +264,11 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 - - -
 
 ## 📑 소프트웨어 아키텍처
+프론트엔드
+![image](https://github.com/user-attachments/assets/a824eb34-0d1a-49bf-8e4e-983453fa7c40)
 
-![image](https://user-images.githubusercontent.com/43109589/195964804-b3bf7897-bfd1-4b30-8c0d-574b6a084f28.png)
+백엔드
+![image](https://github.com/user-attachments/assets/e469f4e6-a83e-451f-ac3b-959d54184dbf)
 
 <br />
 <br />
