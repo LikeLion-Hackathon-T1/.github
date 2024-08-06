@@ -139,12 +139,11 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 |채널|React 웹앱|
 |파트너십 관계 1|전통시장 상인:가게 입점부터 QR배치까지 파트너십을 통한 연계|
 |수익|주문 수수료, 시럽 포인트, 가게 상위노출 광고, 자체 PB 상품 럽키트 판매 수익|
+<br />
+<br />
+- - -
 ![image](https://github.com/user-attachments/assets/05fb6dcf-6d24-4eb5-9b56-7cb851d3b1d0)
 
-<br />
-<br />
-
-- - -
 ## 📑 기술 스택
 #### 💻 BackEnd
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
