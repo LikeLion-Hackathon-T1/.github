@@ -9,7 +9,7 @@ QR코드를 이용한 전통시장 O2O 마켓플레이스
 두 손은 가볍게, 돌아갈 땐 즐겁게
 
 #### 🍯 Sub copy
-시장에 돌아다니면서 한가득 들고 있던 짐, 시럽이 대신 들어드릴게요.
+시장에 돌아다니면서 한가득 들고 있던 짐, 시럽이 대신 들어드릴게요.<br />
 쉽고 빠르게 장을 보고, 여유롭게 시장을 즐기세요.<br />
 Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 <br />
@@ -91,7 +91,14 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 ![image](https://github.com/user-attachments/assets/a6784a09-f2b8-44e6-9908-0fb2007ba65d)
 
 ## 🍯 유저 시나리오
+##### 1️⃣ 가게 앞에 있는 QR 발견! : 방문객은 사장님의 가게 앞에 붙어있는 QR 코드를 스캔할 수 있어요.</br>
+##### 2️⃣ 방문객을 위해 사장님이 등록해놓은 메뉴! : 이동된 페이지는 사장님의 가게 정보가 담긴 곳으로, 메뉴를 보고 장바구니에 담을 수 있어요. </br>
+##### 3️⃣ 상품을 결제하고 원하는 시간에 방문 예약! : 연동된 토스페이를 이용해 상품을 간편하게 결제하고, 방문해서 이용하거나 픽업할 시각을 정해요. </br>
+##### 4️⃣ 주문접수 이후 상품 준비 시 손님에게 알림 : 사장님은 메뉴가 준비된 이후 시럽을 통해 메뉴가 준비됨을 알릴 수 있어요. </br>
+##### 5️⃣ 시장 구경 후 예약시간에 맞춰 가게 방문! : 방문객은 예정된 시각에 맞춰 가게를 방문해서 간편하게 가게를 경험해요. </br>
 ![image](https://github.com/user-attachments/assets/81b301a3-4c86-4af6-a4ec-70b671366dea)
+</br>
+이 기능들은 시럽이 가진 기능의 '극히 일부'에요! 직접 시럽에 방문해서 전통시장을 위한 수많은 솔루션 기능들을 살펴보세요 :)
 
 
 ## 💗 시럽의 목표
@@ -135,7 +142,11 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 <br />
 <br />
 
+![image](https://github.com/user-attachments/assets/6caac3eb-b649-4693-bfa6-47567ea7537c)
+
 - - -
+
+
 ## 📑 기술 스택
 #### 💻 BackEnd
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
@@ -150,10 +161,15 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 
 
 #### 💻 FrontEnd
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=flat-square&logo=Xcode&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/React Query-F7DF1E?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-FF9E0F?style=for-the-badge&logoColor=white">
+
 #### 📡 배포
-<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub Action-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"></a>
+
 #### 👨‍👩‍👧‍👦 협업툴
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
