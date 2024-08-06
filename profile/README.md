@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6525e6c8-e933-4bce-9292-8cf04c17e4b8)# _Syluv_
+# _Syluv_
 ## 📑 서비스 소개
 
 ![image](https://github.com/user-attachments/assets/2dab62fb-1cac-43ba-a2ad-1e3b7374abc3)
