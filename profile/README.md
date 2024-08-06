@@ -1,4 +1,4 @@
-# _Syluv_
+![image](https://github.com/user-attachments/assets/6525e6c8-e933-4bce-9292-8cf04c17e4b8)# _Syluv_
 ## 📑 서비스 소개
 
 ![image](https://github.com/user-attachments/assets/2dab62fb-1cac-43ba-a2ad-1e3b7374abc3)
@@ -182,9 +182,6 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </a>
-#### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 
 <br />
 <br />
@@ -241,6 +238,12 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 
 💻 백엔드
 ![image](https://github.com/user-attachments/assets/e469f4e6-a83e-451f-ac3b-959d54184dbf)
+
+💻 ERD
+![image](https://github.com/user-attachments/assets/772f3751-f9df-41c8-ab9f-023a3c12f0e4)
+
+
+
 
 <br />
 <br />
