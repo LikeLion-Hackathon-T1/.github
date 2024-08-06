@@ -141,9 +141,8 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 |수익|주문 수수료, 시럽 포인트, 가게 상위노출 광고, 자체 PB 상품 럽키트 판매 수익|
 <br />
 <br />
-![image](https://github.com/user-attachments/assets/05fb6dcf-6d24-4eb5-9b56-7cb851d3b1d0)
-
-
+![image](https://github.com/user-attachments/assets/6caac3eb-b649-4693-bfa6-47567ea7537c)
+- - -
 ## 📑 기술 스택
 #### 💻 BackEnd
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
