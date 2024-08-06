@@ -189,18 +189,12 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 ### 📌 기술 스택 선정 이유
 ### Back
 - Docker와 Jenkins를 이용해 Springboot CI/CD를 자동화하였습니다.
-- Github Webhook을 이용해 push시 서버 배포까지 자동화하였습니다.
 - AWS EC2, RDS, S3를 이용해 서버, DB, 객체를 클라우드로 24시간 관리/배포가 가능하도록 하였습니다.
-- aQuerytool을 사용해 DB 아키텍처 설계 후 개발을 진행할 예정입니다.
-- Github를 통해 버전관리와 분산관리를 진행할 예정입니다.
+- Github를 통해 버전관리와 분산관리를 진행했습니다.
 ### Front
 - 사용성을 고려하여 React 기반 모바일 뷰 웹 개발을 정했습니다.
-- API 통신을 위해서는 URLSession, URLRequest를 사용하고 추가적으로 Alamofire 라이브러리를 통해 구현할 예정입니다.
-- 빠르고 효율적인 개발을 위해 MVC 패턴을 적용할 예정입니다.
-### Design
-- 백터이미지를 활용한 도형의 응용을 위해 Adobe Illustrator를 활용하여 로고와 이미지를 제작하였습니다.
-- 자세한 화면정의가 가능하고 협업이 용이한 Figma를 사용하였습니다.
-- Blender를 활용하여 3d 디자인을 제작할 예정입니다.
+- Axios Interceptors와 zustand를 활용하여 효율적인 토큰관리를 구현하였습니다.
+- EC2, Github Action, Docker를 활용하여, 지속적인 배포 환경을 구축하였습니다.
 
 <br />
 <br />
