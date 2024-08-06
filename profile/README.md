@@ -142,7 +142,6 @@ Syluv과 함께라면, 시장 나들이가 더욱 편리해집니다.
 <br />
 <br />
 ![image](https://github.com/user-attachments/assets/05fb6dcf-6d24-4eb5-9b56-7cb851d3b1d0)
-- - -
 
 
 ## 📑 기술 스택
